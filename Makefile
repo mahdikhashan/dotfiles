@@ -1,3 +1,2 @@
-setup:
-    chmod +x ./scripts/install_launchd_jobs.sh
+install:
     bash ./scripts/install_launchd_jobs.sh
